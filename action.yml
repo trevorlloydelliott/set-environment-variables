@@ -1,4 +1,4 @@
-name: "Set environment variables"
+name: "Simple set environment variables"
 description: "Allow for setting environment variables for future steps"
 author: "Trevor Elliott"
 runs:
