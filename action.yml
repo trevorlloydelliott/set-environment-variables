@@ -1,0 +1,6 @@
+name: "Set environment variables"
+description: "Allow for setting environment variables for future steps"
+author: "Trevor Elliott"
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
